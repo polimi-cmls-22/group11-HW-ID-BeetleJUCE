@@ -42,6 +42,19 @@
   <li>pitch of the notes (distance from Ultrasonic sensor)</li>
 </ul>
 </b>  
+
+<b>How to use it:
+<ul>
+  <li>flah sensors.ino into your Arduino (only once)</li> 
+  <li>connect the sensors to your Arduino board</li> 
+  <li>connect your Arduino board to your computer</li>
+  <li>run engine.scd</li>
+  <li>run BeatRun.pde</li>
+  <li>enjoy yourself :)</li>
+  <li></li>
+</ul>
+</b>
+
   
 <b>Contacts:
 <ul>
