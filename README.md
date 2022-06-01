@@ -51,7 +51,6 @@
   <li>run engine.scd</li>
   <li>run BeatRun.pde</li>
   <li>enjoy yourself :)</li>
-  <li></li>
 </ul>
 </b>
 
