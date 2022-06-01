@@ -28,6 +28,12 @@
 </b>
 </p>
   
+<b>Prerequisites:
+<ul>
+  <li>owning the 2 sensors + 1 Arduino UNO board + SuperCollider and Processing installed on your system</i></li>
+  <li>knowing 1+ BeetleJUCE member so they can let you try it :)</i></li>
+</ul>
+</b>
 <p>
 
 <b>Contacts:
