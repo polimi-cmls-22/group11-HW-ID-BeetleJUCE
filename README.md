@@ -22,7 +22,7 @@ Beatrun is a multi-sensor music system with cool 80's outrun vibes. The rhythm o
 
 <b>Project Link:
 <ul>
-  <li>https://github.com/polimi-cmls-22/group11-hw-JUCE-BeetleJUCE</li>
+  <li>https://github.com/polimi-cmls-22/group11-hw-ID-BeetleJUCE</li>
 </ul>
 </b>
 </p>
