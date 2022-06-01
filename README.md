@@ -17,7 +17,17 @@
 ![Beatrun Screenshot](https://i.imgur.com/DmhP32l.png)
 
 
-
+<b>Built with:
+<ul>
+  <li>Heart-rate sensor</li>
+  <li>Ultrasonic Sensor HC-SR04</li>
+  <li>Arduino</li>
+  <li>SuperCollider</li>
+  <li>Processing</li>
+</ul>
+</b>
+</p>
+  
 <p>
 
 <b>Contacts:
