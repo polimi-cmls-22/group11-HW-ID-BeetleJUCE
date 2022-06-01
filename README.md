@@ -36,6 +36,13 @@
 </b>
 <p>
 
+<b>Controllable parameters:
+<ul>
+  <li>rhythm of the music (heartbeat)</li>
+  <li>pitch of the notes (distance from Ultrasonic sensor)</li>
+</ul>
+</b>  
+  
 <b>Contacts:
 <ul>
   <li>Adriano Farina : <i>adriano.farina@mail.polimi.it</i></li>
